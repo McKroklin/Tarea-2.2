@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página</title>
+</head>
+<body>
+    <h1>Hola, este es mi encabezado</h1>
+    <p>Este es el cuerpo de mi documento</p>
+    <h2>Este es mi segundo encabezado</h2>
+</body>
+</html>
